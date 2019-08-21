@@ -1,0 +1,16 @@
+#!/bin/bash
+
+clear
+
+read -p "VİRUS ATTACKER HOME : " home;
+				
+echo -e " \e[31m .....PLEASE WAIT.....\e[0m"
+sleep 3				     
+			      
+echo -e "\e[32m WELCOME! $home\e[0m"
+sleep 2     
+ 
+echo -e "\e[31m .....PLEASE WAIT.....\e[0m"
+sleep 2
+
+yes ATTACKER.......$home
